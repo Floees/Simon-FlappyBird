@@ -179,4 +179,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06350292978be41419e6b3474d8835f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PipeMovement
-  HorizontalForce: 1
+  HorizontalForce: 0.1
